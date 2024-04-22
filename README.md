@@ -1,7 +1,6 @@
 # HospitalManagementSystem
 Hospital Management System using JAVA
 
-Certainly! Below is a template for a GitHub README file for a Hospital Management System implemented in Java:
 
 ---
 
